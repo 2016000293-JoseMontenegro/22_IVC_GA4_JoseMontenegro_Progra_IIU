@@ -36,6 +36,6 @@ internal class Program
         }
         Console.WriteLine("\n Apagando el sistema de control.");
         Console.WriteLine("\n Presione una tecla para continuar.");
-        Console.ReadKey();
+        Console.ReadKey(); //Esperar tecla
     }
 }
