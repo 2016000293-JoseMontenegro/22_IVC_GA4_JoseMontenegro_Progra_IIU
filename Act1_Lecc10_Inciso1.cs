@@ -6,7 +6,7 @@ internal class Program
         const int TOTAL_SELLOS = 8;
         Console.WriteLine("-------CUPONERA DE BARBERÍA DON CRUP-------");
 
-        for (int i = 1; i <= TOTAL_SELLOS; i++)
+        for (int i = 1; i <= TOTAL_SELLOS; i++) //Acumulador
         {
             Console.WriteLine("\n Sello actual {0} de {1} ",i, TOTAL_SELLOS);
             Console.WriteLine("Presione cualquier tecla para registrar esta visita");
