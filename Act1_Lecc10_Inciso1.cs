@@ -10,7 +10,7 @@ internal class Program
         {
             Console.WriteLine("\n Sello actual {0} de {1} ",i, TOTAL_SELLOS);
             Console.WriteLine("Presione cualquier tecla para registrar esta visita");
-            Console.ReadKey();//Presionar una tecla antes de continuar
+            Console.ReadKey();//Presionar una tecla para de continuar
 
             Console.WriteLine(">>>Sellos #{0} registrado correctamente...");
         }
