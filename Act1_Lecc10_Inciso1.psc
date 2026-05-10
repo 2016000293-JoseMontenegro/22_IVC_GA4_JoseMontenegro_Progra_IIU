@@ -1,5 +1,5 @@
 //PSEint
-Algoritmo Lecc10_Act1_Inc1
+Algoritmo Act1_Lecc10_Inc1
 	Definir i Como Entero
 	
 	Escribir "-------CUPONERA DE BARBERÍA DON CRUP-------"
