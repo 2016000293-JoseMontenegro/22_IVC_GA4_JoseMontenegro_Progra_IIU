@@ -1,5 +1,5 @@
 //PSeInt
-Algoritmo Lecc11_Act1_Inc1
+Algoritmo Act1_Lecc11_Inc1
 	Definir cajonesOcupados, capacidadTotal, opc Como Entero
 	capacidadTotal = 10
 	cajonesOcupados = 0
